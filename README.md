@@ -40,12 +40,15 @@ API-based Java backend for creating and storing resumes securely.
 </p>
 
 ---
+
 ### 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Nshivani0809&theme=tokyonight&column=4" />
 </p>
+
 ---
+
 ### 📊 GitHub insights
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NShivani0809&show_icons=true&theme=tokyonight&hide=prs" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NShivani0809&layout=compact&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=NShivani0809&theme=tokyonight&hide_border=true" /> </p>
