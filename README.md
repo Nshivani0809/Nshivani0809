@@ -53,8 +53,7 @@ API-based Java backend for creating and storing resumes securely.
 - 🌐 [GitHub](https://github.com/Nshivani0809)
 
 
-![Snake animation](https://raw.githubusercontent.com/Nshivani0809/Nshivani0809/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ### 🏆 Quote I Believe In
 > _“Code is like humor. When you have to explain it, it’s bad.”_ – Cory House
