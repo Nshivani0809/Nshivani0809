@@ -40,7 +40,12 @@ API-based Java backend for creating and storing resumes securely.
 </p>
 
 ---
+### 🏆 GitHub Trophies
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nshivani0809&theme=tokyonight&column=4" />
+</p>
+---
 ### 📊 GitHub insights
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NShivani0809&show_icons=true&theme=tokyonight&hide=prs" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NShivani0809&layout=compact&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=NShivani0809&theme=tokyonight&hide_border=true" /> </p>
@@ -52,8 +57,11 @@ API-based Java backend for creating and storing resumes securely.
 - 📧 [shivani.noru@gmail.com](mailto:shivani.noru@gmail.com)
 - 🌐 [GitHub](https://github.com/Nshivani0809)
 
+---
 
+### 🐍 Snake Animation
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
+---
 ### 🏆 Quote I Believe In
 > _“Code is like humor. When you have to explain it, it’s bad.”_ – Cory House
