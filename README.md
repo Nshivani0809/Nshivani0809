@@ -2,8 +2,9 @@
 <h3 align="center">Java Backend Developer | Spring Boot | REST APIs | Git | SQL</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Passionate+Java+Backend+Developer;Building+real-world+apps+with+Spring+Boot;Writing+clean%2C+efficient+code;Learning+every+single+day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Building+robust+Java+APIs;Crafting+clean+Spring+Boot+services;Learning+every+single+day!" alt="Typing SVG" />
 </p>
+
 
 ---
 
@@ -33,20 +34,26 @@ API-based Java backend for creating and storing resumes securely.
 
 ### 📊 GitHub Stats
 
+<!-- Banner -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nshivani0809&show_icons=true&theme=tokyonight&hide=prs" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nshivani0809&layout=compact&theme=tokyonight" />
+  <img src="https://github.com/NShivani0809/NShivani0809/assets/your-banner-path.png" alt="Shivani Noru Banner" width="100%" />
 </p>
 
 ---
 
+### 📊 GitHub insights
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NShivani0809&show_icons=true&theme=tokyonight&hide=prs" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NShivani0809&layout=compact&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=NShivani0809&theme=tokyonight&hide_border=true" /> </p>
+
+---
 ### 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/nshivaninoru)
 - 📧 [shivani.noru@gmail.com](mailto:shivani.noru@gmail.com)
 - 🌐 [GitHub](https://github.com/Nshivani0809)
 
----
+
+![Snake animation](https://github.com/NShivani0809/NShivani0809/blob/output/github-contribution-grid-snake.svg)
 
 ### 🏆 Quote I Believe In
 > _“Code is like humor. When you have to explain it, it’s bad.”_ – Cory House
