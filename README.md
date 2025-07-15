@@ -36,7 +36,7 @@ API-based Java backend for creating and storing resumes securely.
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NShivani0809/NShivani0809/main/Shivani_profile.png" alt="Shivani Noru Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/NShivani0809/NShivani0809/main/Shivani_profile.png" alt="Shivani Noru Banner" width="800px" />
 </p>
 
 ---
