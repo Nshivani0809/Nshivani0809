@@ -1,68 +1,77 @@
 <h1 align="center">Hi 👋, I'm Shivani Noru</h1>
-<h3 align="center">Java Backend Developer | Spring Boot | REST APIs | Git | SQL</h3>
+<h3 align="center">💻 Java Backend Developer | Spring Boot | Java 8 | Microservices | REST APIs | MySQL | AWS EC2</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Building+robust+Java+APIs;Crafting+clean+Spring+Boot+services;Learning+every+single+day!" alt="Typing SVG" />
 </p>
 
+---
+
+## 🌟 About Me
+💡 3 years of experience in Java backend development, building **15+ REST APIs** and **microservices** with Spring Boot, Java 8, and MySQL.  
+🚀 Deployed production-ready applications on **AWS EC2**, Render, and Railway with CI/CD pipelines.  
+📌 Skilled in **Collections**, database optimization, and API security with **JWT**.
 
 ---
 
-### 🔧 Tech Stack
-- 💻 Java, Spring Boot, Hibernate, REST APIs
-- 🧩 JSON, Postman, Swagger, JWT
-- 🗄 MySQL, Oracle DB
-- 🌐 HTML, CSS, JavaScript
-- ⚙️ Git, GitHub, Maven
-- ☁️ Render (for deployment)
+## 🔧 Tech Stack
+- 💻 **Backend:** Java 8+, Spring Boot, Hibernate, REST APIs, Microservices, JWT
+- 🗄 **Databases:** MySQL, Oracle DB
+- ☁️ **Cloud & DevOps:** AWS EC2, Render, Railway, Jenkins
+- 🧩 **Tools:** Git, GitHub, Maven, Swagger, Postman
+- 🌐 **Frontend (Basics):** HTML, CSS, JavaScript
 
 ---
 
-### 💼 Real-World Projects
+## 💼 Real-World Projects
 
-🚀 **[Task Manager](https://github.com/Nshivani0809/task-manager)**  
-A full-stack productivity tool where users can:
-- Add, update, delete tasks
-- Receive automatic email reminders
-- Authenticated via JWT
-- Deployed: [Live App](https://task-manager-7e32.onrender.com)
-
-📝 **[Resume Builder](https://github.com/Nshivani0809/ResumeBuilder)**  
-API-based Java backend for creating and storing resumes securely.
+### 🛢 **Petrodhar – Petrol Pump Records Management App** *(Office Project)*  
+*Java, Spring Boot, MySQL, Jenkins, AWS EC2, Heroku*  
+- Developed and deployed **12+ REST APIs** for agent, customer, dealer, and authentication modules.  
+- Served ~15 customers via Play Store before temporary marketing pause.  
+- Integrated Jenkins CI/CD pipelines for automated deployments.  
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 **[Task Manager](https://github.com/Nshivani0809/task-manager)**  
+*Java, Spring Boot, MySQL (Railway), Render, JWT, Swagger*  
+- Designed backend APIs for task CRUD operations with **JWT authentication**.  
+- Integrated Railway-hosted MySQL database for cloud persistence.  
+- Deployed on Render with live Swagger UI documentation.
 
-<!-- Banner -->
+---
+
+### 🌐 **[Portfolio Website](https://nshivani0809.github.io/shivani-portfolio/)**  
+*HTML, CSS, JavaScript, GitHub Pages*  
+- Personal portfolio showcasing backend projects and skills.  
+- Fully responsive design hosted via GitHub Pages.
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NShivani0809/NShivani0809/main/Shivani_profile.png" alt="Shivani Noru Banner" width="800px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NShivani0809&show_icons=true&theme=tokyonight&hide=prs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NShivani0809&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
-
+## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Nshivani0809&theme=tokyonight&column=4" />
 </p>
 
 ---
 
-### 📊 GitHub insights
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NShivani0809&show_icons=true&theme=tokyonight&hide=prs" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NShivani0809&layout=compact&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=NShivani0809&theme=tokyonight&hide_border=true" /> </p>
-
----
-### 📫 Let's Connect
-
+## 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/nshivaninoru)
 - 📧 [shivani.noru@gmail.com](mailto:shivani.noru@gmail.com)
 - 🌐 [GitHub](https://github.com/Nshivani0809)
+- 🌐 [Portfolio Website](https://nshivani0809.github.io/shivani-portfolio/)
 
 ---
 
-### 🐍 Snake Animation
+## 🐍 Snake Animation
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ---
